@@ -1,4 +1,4 @@
-♻️ DSN Trash Detection Project
+#♻️ DSN Trash Detection Project
 Welcome to the DSN Trash Detection Project — an AI-powered solution using YOLOv8 to detect and classify waste in images. This project aims to assist sustainability and waste management efforts by identifying various categories of garbage from images efficiently and in real-time.
 
 
